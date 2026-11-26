@@ -1,0 +1,10 @@
+Added Component: Designator=S1(SW_EG1270)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EG1270/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EG1270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EG1270/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_A Pin=S1-2
+Added Pin To Net: NetName=Net3V_N Pin=S1-3
+Added Member To Class: ClassName=Sheet2 Member=Component S1
